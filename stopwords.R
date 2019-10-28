@@ -1,3 +1,5 @@
+#Script to remove stopwords non alpha-numeric characters from string
+
 #Required packages
 library(rjson)
 library(tm)
